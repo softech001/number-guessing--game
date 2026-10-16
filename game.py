@@ -14,6 +14,6 @@ for i in range(5):
      elif guess > secret_number:
             print(" TOO HIGH !! TRY AGAIN ")
 else:
-          print(" GAME OVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
-
-            
+          print(" GAME OVERRRRRRRRRR" )
+          print(" THE NUMBER IS ",secret_number)
+        
